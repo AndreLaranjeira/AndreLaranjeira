@@ -12,7 +12,9 @@ My name is André Filipe Caldas Laranjeira and I'm a programmer from Brasília, 
 
 - :computer: I’m currently working on Oracle Apex websites and a NodeJS + React website.
 - :bookmark_tabs: I’m currently learning how to program in Rust.
-- :books: I'm currently reading Clean code by Robert C. Martin.
+- :books: Currently reading: Clean code by Robert C. Martin.
+- 💬 Ask me about anything related to programming!
+- 📫 How to reach me: andrecaldaslaranjeira@gmail.com
 - ⚡ Fun fact: I'm a big fan of Hans Zimmer's soundtracks because they make for excellent background music while programming.
 
 <!--
