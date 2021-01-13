@@ -4,9 +4,8 @@ My name is André Filipe Caldas Laranjeira and I'm a programmer from Brasília, 
 
 #### Current occupations
 
-1. Computer engineering student at the Universidade de Brasília (UnB).
+1. Computer engineering student at the Universidade de Brasília (UnB);
 2. Oracle Apex intern developer at the Tribunal de Contas da União (TCU).
-3. CFO of the junior enterprise [Struct - Empresa Júnior de Engenharia de Computação](https://www.linkedin.com/company/struct-ej/)
 
 #### About me
 
