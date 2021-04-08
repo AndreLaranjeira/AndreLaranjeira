@@ -7,7 +7,6 @@ I'm a programmer from Brasília, Brazil. I enjoy programming, architecturing sof
 ## Current occupations
 
 * Computer engineering student at the Universidade de Brasília (UnB);
-* Oracle Apex intern developer at the Tribunal de Contas da União (TCU).
 
 ## Contact
 
