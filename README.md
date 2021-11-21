@@ -6,8 +6,10 @@ I specifically like to listen to Hans Zimmer's movie soundtracks and some videog
 
 ## Current occupations
 
-* Applying for a master's or postgraduate degree... 
+* Applying for a master's degree in computer science for the academic year of 2022.
 
 ## Contact
 
-You can reach me at `AndreLaranjeira@protonmail.com`. I'll be happy to talk about topics related to programming, but please refrain from sending me advertisements.
+You can reach me at `AndreLaranjeira@protonmail.com`. I'll be happy to talk about topics related to programming, but please refrain from sending me advertisements. 
+
+Also, at this time, _I am not accepting job offers._
