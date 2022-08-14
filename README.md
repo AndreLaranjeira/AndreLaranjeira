@@ -6,7 +6,7 @@ I specifically like to listen to Hans Zimmer's movie soundtracks and some videog
 
 ## Current occupations
 
-* Applying for a master's degree in computer science for the academic year of 2022.
+* Student at the University of Georgia in the M.S. in Computer Science program.
 
 ## Contact
 
