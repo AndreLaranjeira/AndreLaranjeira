@@ -10,6 +10,4 @@ I specifically like to listen to Hans Zimmer's movie soundtracks and some videog
 
 ## Contact
 
-You can reach me at `AndreLaranjeira@protonmail.com`. I'll be happy to talk about topics related to programming, but please refrain from sending me advertisements. 
-
-Also, at this time, _I am not accepting job offers._
+You can reach me at `AndreLaranjeira@protonmail.com`. I'll be happy to talk about topics related to programming, but please refrain from sending me advertisements.
