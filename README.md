@@ -1,12 +1,12 @@
 # André Filipe Caldas Laranjeira
 
-I'm a programmer from Brasília, Brazil with a Bachelor's degree in Computer Engineering from the University of Brasília. I enjoy programming, designing software, playing videogames and reading books. I believe that good code needs to be commented, tested and refactored. No exceptions!
+I'm a programmer from Brasília, Brazil. I have a Bachelor's degree in Computer Engineering from the University of Brasília and a Master's degree in Computer Science from the University of Georgia.
 
-I specifically like to listen to soundtracks from movies, videogames or TV series while programming \(Hans Zimmer is a particular favorite composer of mine\). The hours fly by much faster with a good soundtrack playlist and a couple of coding problems to be solved.
+I enjoy programming, designing software, playing videogames and reading books. I believe that good code needs to be refactored, tested and documented. No exceptions! I specifically like to listen to movie and videogame soundtracks or Lo-fi while programming \(Hans Zimmer, particularly, is a favorite composer of mine\). The hours fly by much faster with good music and a couple of coding problems to be solved.
 
 ## Current occupations
 
-* Student at the University of Georgia in the M.S. in Computer Science Thesis option program;
+* Looking for a job under the OPT program. If you are interested in hiring me, you can download my [Resume](./doc/Resume.pdf).
 * Reading \(sporadically\) _The Rust Programming Language - 2nd edition_ to learn about Rust;
 
 ## Contact
