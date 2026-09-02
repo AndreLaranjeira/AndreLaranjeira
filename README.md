@@ -11,4 +11,4 @@ I enjoy programming, designing software, playing videogames and reading books. I
 
 ## Contact
 
-You can reach me at `AndreLaranjeira@protonmail.com`. I'll be happy to talk about topics related to programming, but please refrain from sending me advertisements.
+You can reach me at `AndreLaranjeira@protonmail.com`. I'll be happy to talk about topics related to programming, but please refrain from sending me advertisements or collaboration opportunities based upon misrepresentation in a professional setting.
